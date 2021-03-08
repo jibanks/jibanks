@@ -2,6 +2,10 @@
 
 <img align="right" alt="GIF"  width="300px" src="https://raw.githubusercontent.com/Kushal997-das/Kushal997-das/master/Profile%20generator/giphy.webp" />
 
+<br>
+
+<img align="center" height="250" src="https://media1.picsearch.com/is?O0MpZnZpyHeU2cLLBkUWzLR_Nb4w-TM88dS7QK11jyc&height=277" />
+
 **jibanks/jibanks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
