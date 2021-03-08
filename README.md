@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <img align="right" alt="GIF"  width="300px" src="https://raw.githubusercontent.com/Kushal997-das/Kushal997-das/master/Profile%20generator/giphy.webp" />
-<!--
+
 **jibanks/jibanks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
